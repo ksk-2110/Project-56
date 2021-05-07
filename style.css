@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: turquoise;
+}
+
+img {
+    width: 500px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 5px;
+}
+
+p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
